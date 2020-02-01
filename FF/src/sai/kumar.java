@@ -6,6 +6,9 @@ public class kumar {
 		// TODO Auto-generated method stub
 		
 		System.out.println("sai");
+		System.out.println("kumar");
+		
+		
 
 	}
 
