@@ -13,8 +13,7 @@ public class kumar {
 
 ////
 		
-		//kmmm
-		
+		 
 
 	}
 
