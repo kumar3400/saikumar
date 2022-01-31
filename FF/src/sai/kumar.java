@@ -10,6 +10,14 @@ public class kumar {
 	 
 	System.out.println("sai");
 		System.out.println("kumar");
+		
+		
+		
+		//11)Handle Image
+		//i)General Image(No functionality)
+		/*		
+		driver.get("https://www.google.com");
+		driver.manage().window().maximize();
 	//	https://github.com/saikumar212/saikumar.git
 		//	https://github.com/saikumar212/saikumar.git
 		//	https://github.com/saikkjhumar212/saikumar.git
@@ -21,3 +29,9 @@ public class kumar {
 	}
 
 }
+}
+	*/	
+	}
+	
+}
+		
