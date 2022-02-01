@@ -8,7 +8,7 @@ public class kumar {
 		System.out.println("sai");
 		System.out.println("kumar");
 		
-		System.out.println("kk");
+		System.out.println("kumar");
 		
 		
 		
