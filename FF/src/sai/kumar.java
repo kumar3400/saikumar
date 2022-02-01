@@ -17,9 +17,7 @@ public class kumar {
 		driver.manage().window().maximize();
 	 
 		
-
-		 //kumarsai
-
+ 
 	}
 
 }
