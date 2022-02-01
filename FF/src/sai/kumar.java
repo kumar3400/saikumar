@@ -8,8 +8,7 @@ public class kumar {
 		System.out.println("sai");
 		System.out.println("kumar");
 		
-		System.out.println("sai");
-		
+		 
 		
 		
 		//11)Handle Image
