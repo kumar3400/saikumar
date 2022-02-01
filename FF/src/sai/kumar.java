@@ -15,11 +15,7 @@ public class kumar {
 		/*		
 		driver.get("https://www.google.com");
 		driver.manage().window().maximize();
-	//	https://github.com/saikumar212/saikumar.git
-		//	https://github.com/saikumar212/saikumar.git
-		//	https://github.com/saikkjhumar212/saikumar.git
-
-////
+	 
 		
 
 		 //kumarsai
